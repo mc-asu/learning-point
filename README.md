@@ -7,19 +7,19 @@ Chatkit may be deprecated - need to update
 
 ## Todo for now
 - [x] Todo List
--- [] Replace Todo List with a Kanban Board
+- [] Replace Todo List with a Kanban Board
 - [] Settings
--- [] Profile
--- [] Themes
+- [] Profile
+- [] Themes
 - [x] Chatapp
--- [] update into newer version
--- [] make it responsive
--- [] make the chat available on all routes
--- [] implement the online indicator
--- [] user picture
+- [] update into newer version
+- [] make it responsive
+- [] make the chat available on all routes
+- [] implement the online indicator
+- [] user picture
 - [] Widgets
--- [] Word of the Day
--- [] Stretch Timer - Cooldown
+- [] Word of the Day
+- [] Stretch Timer - Cooldown
 
   
 
