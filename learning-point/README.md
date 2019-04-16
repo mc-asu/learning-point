@@ -5,7 +5,7 @@ Need to learn the backend part for log in and register and content mostly
 It uses Router, Material-UI, Grid, Flexboxes and Chatkit.
 Chatkit may be deprecated - need to update
 
-##Todo for now
+## Todo for now
 [x] Todo List
   [] Replace Todo List with a Kanban Board
 [] Settings
